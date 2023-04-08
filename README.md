@@ -1,9 +1,9 @@
-<h1>Siatema de cadastro de jogos</h1>
+<h1>Sistema de cadastro de jogos</h1>
 
->Status dpo projeto: Em desevolvimento
+>Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua maquina, por favor digite:
+Para rodar esse projeto na sua máquina, por favor digite:
 
 '''
-npn install react
+node app.js
 '''
